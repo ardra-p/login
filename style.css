@@ -1,0 +1,66 @@
+.body{
+  background-color: white;
+  padding:500px;
+  align-items: center;
+}
+
+.login{
+  
+  display: block;
+  background: hwb(164 0% 88%);
+  padding: 50px;
+  height: 450px;
+  width: 300px;
+  background-position: 300px;
+
+  
+  
+}
+.email{
+   box-shadow: inset;
+   background-color: hwb(162 1% 85%);
+   border-style: solid;
+   border-width: 2px;
+   border-color: white;
+   width: 300px;
+   height: 45px;
+   
+}
+.submit{
+ width: 300px;
+ height: 45px; 
+ font-size: 17px;
+}
+
+.fa-linkedin{
+  color: rgb(20, 93, 202);
+  font-size:35px;
+ border-style: solid;
+ border-radius: 4px;
+  border-color: white;
+  background-color: black;
+}
+.fa-square-instagram{
+  color: rgb(190, 11, 97);
+  font-size: 35px;
+  border-style: solid;
+ border-radius: 4px;
+  border-color: white;
+  background-color: black;
+}
+.fa-facebook{
+  color: rgb(20, 93, 202);
+  font-size:35px;
+ border-style: solid;
+ border-radius: 4px;
+  border-color: white;
+  background-color: black;
+}
+.fa-github{
+  font-size: 35px;
+  border-style: solid;
+ border-radius: 4px;
+  border-color: white;
+  color: white;
+  background-color: black;
+}
